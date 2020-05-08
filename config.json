@@ -1,0 +1,19 @@
+{
+  "leader": {
+    "url": "http://localhost:8888",
+    "username": "admin",
+    "password": "admin"
+  },
+  "followers": [
+    {
+      "server": {
+        "url": "http://localhost:8889",
+        "username": "admin",
+        "password": "admin"
+      },
+      "events": [
+        "filter"
+      ]
+    }
+  ]
+}
